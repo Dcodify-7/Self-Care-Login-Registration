@@ -1,3 +1,5 @@
+# Project Manager Self Care
+
 # Imports
 from auth import register_user, is_username_available, is_valid_password, check_credentials
 from config import COLOR_GREEN, COLOR_RED, COLOR_RESET
